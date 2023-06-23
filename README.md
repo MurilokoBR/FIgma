@@ -1,2 +1,2 @@
-# FIgma
+# Figma
 Drip de Baska
